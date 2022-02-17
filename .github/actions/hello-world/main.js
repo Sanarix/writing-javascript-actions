@@ -8,4 +8,8 @@ console.log(`Hello ${firstGreeting}`);
 console.log(`Hello ${secondGreeting}`);
 if (thirdGreeting) {
   console.log(`Hello ${thirdGreeting}`);
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 3e155e40729ca7a4445cf3389ba23ca8bc1ca27e
